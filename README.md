@@ -17,5 +17,9 @@ For do this, read steps below.
         + `Install-Package Microsoft.EntityFrameworkCore.SqlServer -version 2.1.0`
 		+ `Install-Package Microsoft.EntityFrameworkCore.SqlServer -version 2.1.0`
 3. Execute the command to scaffold database. [You can see steps to scaffold here](https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/existing-db)
-		
 
+## Under Construction
+---------------------
+1. Merge SchemaName and TableName into class generated name
+2. Generate navigation properties correctly 
+3. Generate separated files to entities map

@@ -20,6 +20,6 @@ For do this, read steps below.
 
 ## Under Construction
 ---------------------
-1. **Done** Merge SchemaName and TableName into class generated name
+1. [**Done**] Merge SchemaName and TableName into class generated name
 2. Generate navigation properties correctly 
 3. Generate separated files to entities map
